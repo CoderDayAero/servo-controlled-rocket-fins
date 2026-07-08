@@ -43,3 +43,9 @@ The Arduino continuously reads the analog value from the potentiometer. It then 
 ## What I'll Do Next
 
 * Add a gyroscope or accelerometer for automatic stabilization.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/ef368a5c-ae91-4462-a67b-794daae0bfb6
+
